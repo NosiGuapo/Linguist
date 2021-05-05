@@ -1,0 +1,37 @@
+footer{
+    background-color: #151320;
+    height: auto;
+    width: 100%;
+    color: #f3f4f6;
+}
+
+.footer-content{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 5px 0;
+}
+.footer-content h3{
+    font-size: 1.7rem;
+    font-weight: 800;
+    font-family: montserrat, sans-serif;
+}
+.footer-content p{
+    margin: 5px auto;
+    line-height: 28px;
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+}
+
+.footer-bottom {
+    background-color: #110f1a;
+    width: 100%;
+    padding: 2px 0;
+}
+.footer-bottom p{
+    margin-left: 35px;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+}
